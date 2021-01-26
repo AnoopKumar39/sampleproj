@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello world sample project'
+echo -e "\e[31mHELLO WORLD FROM SAMPLE PROJECT\nTHIS IS A PART OF JENKINS TESTING\e[0m"
